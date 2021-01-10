@@ -1,3 +1,6 @@
+# github.com/AnadyaNair
+# this email bot can send automatic email!
+# there are some important requirements for this email bot, got to https://github.com/AnadyaNair/AnadyaNair_auto-email_bot/blob/main/email-requirements.md
 import smtplib
 server = smtplib.SMTP('smtp.gmail.com', 587)
 server.starttls()
