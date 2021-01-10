@@ -9,3 +9,4 @@ server.login('SENDER'S EMAIL ADDRESS', passpasscode)
 server.sendmail('SENDER'S EMAIL ADDRESS', 
     'RECIEVER'S EMAIL ADDRESS',
     'EMAIL CONTENT, i.e. Hi! The auto email bot works!')
+             
